@@ -35,7 +35,7 @@ export default function Home() {
 
 
               <h1 className="text-4xl md:text-6xl font-bold mb-6">
-                <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-500 via-white to-gray-300">
+                <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-300 to-gray-100">
                   We help businesses to<br />
                   have great impact
                 </span>
