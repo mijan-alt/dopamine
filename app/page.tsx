@@ -39,7 +39,7 @@ export default function Home() {
                   We help businesses to<br />
                   have great impact
                 </span>
-                <span className="inline-block border text-white  border-white backdrop-blur-md bg-white/10 rounded px-4 py-1 ml-2">online</span>
+                <span className="inline-block border text-white  border-white backdrop-blur-md bg-white/10 rounded px-4 py-1 ml-2 italic font-thin">online</span>
               </h1>
               {/* <h1 className="text-4xl md:text-6xl font-bold mb-6">
                 <span className="bg-clip-text text-transparent animated-gradient">
