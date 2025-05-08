@@ -8,11 +8,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-900">
-      <Head>
-        <title>CodeMovement - Digital Agency</title>
-        <meta name="description" content="We help businesses to have great impact online" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    
 
       <div className="relative bg-cover bg-center min-h-screen"
         style={{ backgroundImage: "url('/hero.jpg')" }}>
