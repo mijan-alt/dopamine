@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-900">
-    
+
 
       <div className="relative bg-cover bg-center min-h-screen"
         style={{ backgroundImage: "url('/hero.jpg')" }}>
@@ -35,7 +35,7 @@ export default function Home() {
 
 
               <h1 className="text-4xl md:text-6xl font-bold mb-6">
-                <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-white to-blue-300">
+                <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-500 via-white to-gray-300">
                   We help businesses to<br />
                   have great impact
                 </span>
