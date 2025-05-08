@@ -19,7 +19,7 @@ export default function Home() {
           <Header />
 
           {/* Hero Section */}
-          <main className="container mx-auto px-6 py-12 md:py-24">
+          <main className="container mx-auto px-6 py-4 md:py-12 ">
             <div className="text-center">
               {/* <div className="pt-0.5 pb-[0.1] rounded-xl bg-gradient-to-b from-blue-900 to-blue-100 w-fit mx-auto">
                 <p className="text-white text-sm px-4 py-2 h-full rounded-xl bg-black w-full">
